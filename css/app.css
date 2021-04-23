@@ -1,0 +1,13 @@
+* {
+    /* outline: 1px solid #444; */
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    width: 100%;
+  }
+
+  /* 填充底部导航高度 */
+  .app {
+    margin-bottom: 4rem;
+  }
